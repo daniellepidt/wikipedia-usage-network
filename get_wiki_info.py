@@ -5,9 +5,8 @@ import pageviewapi
 from init_data import DATES_FOR_CHECKING, DATES_STRINGS
 import pdb as bkp
 
-def get_pointers(soup):
+def get_pointers(p_tags):
   pointers = []
-  p_tags = soup.find_all('p')
   for p in p_tags:
     p_links = p.find_all('a')
     for pl in p_links:
@@ -17,9 +16,14 @@ def get_pointers(soup):
 
   return set(pointers)
 
-def find_relevance(soup):
-  text = soup.get_text()
-  ukr = findall(r'^ukr.*$', text)
+def find_relevance(p_tags):
+  text_p = ' '.join([p.text.lower() for p in p_tags])
+  ukr = text_p.count('ukr')
+  russ = text_p.count('russ')
+  return {
+    'ukraince_relevance': ukr,
+    'russia_relevance': russ
+  }
 
 def get_pageviews(value):
   wiki = 'en.wikipedia'
@@ -38,15 +42,15 @@ def get_value_info(values_for_checking, value, checked_values, values_df):
   url = f'https://en.wikipedia.org/wiki/{value.replace(" ", "_")}'
   content = get(url).content
   soup = BeautifulSoup(content, 'html.parser')
-  pointers = get_pointers(soup)
-  relevance = find_relevance(soup)
+  p_tags = soup.find_all('p')
+  pointers = get_pointers(p_tags)
+  relevance = find_relevance(p_tags)
   
   values_for_checking.update(pointers - checked_values)
   pointers_string = ', '.join(list(pointers))
   pageviews = get_pageviews(value)
   d = {
     'value': value,
-    # 'checked': True,
     'pointers': pointers_string,
     **relevance,
     **pageviews

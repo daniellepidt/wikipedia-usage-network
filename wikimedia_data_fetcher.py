@@ -8,7 +8,12 @@ from init_data import CSV_FILE_NAME, BASE_VALUES, DATES_STRINGS, NUMBER_OF_VALUE
 if os.path.isfile(CSV_FILE_NAME):
   values_df = pd.read_csv(CSV_FILE_NAME, index_col=0)
 else:
-  c = ['value', 'pointers'] + DATES_STRINGS
+  c = [
+    'value',
+    'ukraince_relevance',
+    'russia_relevance',
+    'pointers'
+  ] + DATES_STRINGS
   values_df = pd.DataFrame(columns=c)
   values_df.to_csv(CSV_FILE_NAME)
 
@@ -36,8 +41,9 @@ while values_for_checking and len(checked_values) <= NUMBER_OF_VALUES:
   value = values_for_checking.pop() # 
   values_df = get_value_info(values_for_checking, value, checked_values, values_df)
   current_index = len(checked_values)
-  if current_index % 10 == 0:
+  if current_index % 100 == 0:
     print(f'Reached {current_index} values in DB, saving!')
     values_df.to_csv(CSV_FILE_NAME)
 
-# bkp.set_trace()
+values_df.to_csv(CSV_FILE_NAME)
+print('Done!')
