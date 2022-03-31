@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 from re import findall
 import pageviewapi
 from init_data import DATES_FOR_CHECKING, DATES_STRINGS
-import pdb as bkp
 
 def get_pointers(p_tags):
   pointers = []
