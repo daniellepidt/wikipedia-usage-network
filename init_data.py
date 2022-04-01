@@ -1,3 +1,7 @@
+""""
+File of constants to be used in other files.
+"""
+
 CSV_FILE_NAME = 'wikipedia_ukraine_and_russia_network.csv'
 
 BASE_VALUES = {'Russia', 'Ukraine'}
