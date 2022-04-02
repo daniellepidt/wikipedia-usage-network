@@ -17,4 +17,11 @@ DATES_FOR_CHECKING = [
 
 DATES_STRINGS = [f'{pair[0]}-{pair[1]}' for pair in DATES_FOR_CHECKING]
 
+COLUMNS = [
+    'value',
+    'ukraine_relevance',
+    'russia_relevance',
+    'pointers'
+  ] + DATES_STRINGS
+
 NUMBER_OF_VALUES = 10000

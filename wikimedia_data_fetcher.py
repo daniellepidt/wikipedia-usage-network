@@ -1,20 +1,14 @@
 import os.path
 import pandas as pd
 from get_wiki_info import get_value_info
-from init_data import CSV_FILE_NAME, BASE_VALUES, DATES_STRINGS, NUMBER_OF_VALUES
+from init_data import CSV_FILE_NAME, BASE_VALUES, DATES_STRINGS, COLUMNS, NUMBER_OF_VALUES
 
 # Check if a saved file under the name already exists.
 if os.path.isfile(CSV_FILE_NAME):
   values_df = pd.read_csv(CSV_FILE_NAME, index_col=0)
 # If not - create a new dataframe.
 else:
-  c = [
-    'value',
-    'ukraine_relevance',
-    'russia_relevance',
-    'pointers'
-  ] + DATES_STRINGS
-  values_df = pd.DataFrame(columns=c)
+  values_df = pd.DataFrame(columns=COLUMNS)
 
 # Get the dataframe's values and add id to checked_values set,
 # in order to prevent redundant checks.
@@ -41,8 +35,8 @@ while values_for_checking and len(checked_values) <= NUMBER_OF_VALUES:
     current_index = len(checked_values)
     if current_index % 100 == 0:
       print(f'Reached {current_index} values in DB, saving!')
-      values_df.to_csv(CSV_FILE_NAME)
+      values_df.to_csv(CSV_FILE_NAME, encoding='utf-8')
 
 # Save final result & finish.
-values_df.to_csv(CSV_FILE_NAME)
+values_df.to_csv(CSV_FILE_NAME, encoding='utf-8')
 print('Done!')

@@ -68,16 +68,20 @@ def get_pageviews(value):
       pageviews[DATES_STRINGS[i]] = None
   return pageviews
 
+def get_p_tags(value):
+  url = f'https://en.wikipedia.org/wiki/{value.replace(" ", "_")}'
+  content = get(url).content # Get HTML page content with HTTP request.
+  soup = BeautifulSoup(content, 'html.parser') # Parser HTML content.
+  p_tags = soup.find_all('p') # Get all <p> (paragraph) tags.
+  return p_tags
+
 def get_value_info(values_for_checking, value, checked_values, values_df):
   """
   This function contains the whole process of getting values
   with the rest of the functions above.
   It returns an updated dataframe containing the new value.
   """
-  url = f'https://en.wikipedia.org/wiki/{value.replace(" ", "_")}'
-  content = get(url).content # Get HTML page content with HTTP request.
-  soup = BeautifulSoup(content, 'html.parser') # Parser HTML content.
-  p_tags = soup.find_all('p') # Get all <p> (paragraph) tags.
+  p_tags = get_p_tags(value) # Get all <p> (paragraph) tags.
   pointers = get_pointers(p_tags)
   relevance = find_relevance(p_tags)
   
