@@ -1,7 +1,17 @@
 """"
-This file contains functions which are
-used to clean up the data and improve it
-after finishing the query.
+After you have a DB you are happy with, run this script
+and input the DB's location as your first argument.
+This script will perform two actions in order to "clean" your DB:
+1. Unify values which point to the same article on Wikipedia
+2. Remove all pointers which weren't scraped in the gathering process.
+   This is done in order to prevent the graph of having outside nodes
+   which aren't connected to any other node in the graph. These nodes
+   also have a high probabilty of being of low relevance, because they
+   weren't reached in the scraping process.
+
+   NOTE: We wrote add_all_missing_nodes_to_df function but eventually
+   decided not to use it during the script's run, but we left it here
+   for documentation purposes.
 """
 
 import sys
@@ -13,9 +23,9 @@ from init_data import DATES_STRINGS
 
 def unify_similiar_values(df):
   """
-  This function looks for values which have multiple names
-  which all lead to the same Wikipedia page, and then unifies
-  them and aggregates their number of pageviews.
+  Looks for values which have multiple names which all lead
+  to the same Wikipedia page, and then unifies them and
+  aggregates their number of pageviews.
   Examples of this can be the values of:
   'Ukrainian language' & 'Ukrainian Language'
   In order to know which lines to unify, we look for values which
@@ -80,7 +90,16 @@ def add_all_missing_nodes_to_df(df):
   missing_values_df = pd.DataFrame(missing_values)
   return missing_values_df
 
-  df = get_value_info(values_for_checking, value, checked_values, df)
+
+def keep_checked_pointers_only(pointers_string, checked_values):
+  """
+  Helper function:
+  Takes the pointers string, turn it into a list of strings,
+  then a set and make an intersection with checked_values.
+  Then, turn the set back into a string.
+  That leaves us only with values which were already checked.
+  """
+  return ", ".join(set(pointers_string.split(", ")) & checked_values)
 
 
 def remove_unexisting_pointers_from_nodes(df):
@@ -91,18 +110,7 @@ def remove_unexisting_pointers_from_nodes(df):
   """
   # Get all values which were already checked:
   checked_values = set(df['value'])
-  
-  def leave_relevant_pointers(pointers_string):
-    """
-    Helper function:
-    Takes the pointers string, turn it into a list of strings,
-    then a set and make an intersection with checked_values.
-    Then, turn the set back into a string.
-    That leaves us only with values which were already checked.
-    """
-    return ", ".join(set(pointers_string.split(", ")) & checked_values)
-
-  df['pointers'] = df['pointers'].apply(leave_relevant_pointers)
+  df['pointers'] = df['pointers'].apply(keep_checked_pointers_only, checked_values)
   return df
   
 

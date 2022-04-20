@@ -1,3 +1,11 @@
+"""
+Run this file in order to start scraping Wikipedia
+and get the data you'd like to analyze.
+Please take in consideration this is a lengthy process,
+which may take several hours depending on the NUMBER_OF_VALUES
+constant in the init_data.py file.
+"""
+
 import os.path
 import pandas as pd
 from get_wiki_info import get_value_info

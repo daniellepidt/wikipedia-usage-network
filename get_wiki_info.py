@@ -1,3 +1,21 @@
+"""
+This file contains the functions used by the
+wikimedia_data_fetcher.py file in order to scrape data
+from Wikipedia.
+
+All of the functions present here are used as sub-functions
+in the get_value_info function, which is imported
+inside of the wikimedia_data_fetcher.py file.
+
+Two packages are used to gather the information:
+1. BeautifulSoup - A package for parsering HTML pages,
+after getting them as a request. Specifically we use it here
+on every article in order to extract the pointers and determine
+relevance.
+2. pageviewapi - A simple package for easily extracting data from
+the Wikimedia API using simple commands.
+"""
+
 from requests import get
 from bs4 import BeautifulSoup
 from re import findall
