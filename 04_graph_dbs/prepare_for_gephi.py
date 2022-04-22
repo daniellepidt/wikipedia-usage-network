@@ -19,6 +19,12 @@ def create_network_nodes_and_links(df):
      links from every value to it's pointers as described
      by their IDs.
   """
+  network_df = pd.DataFrame() #for later
+  ser_values = df.ix[:,0]
+  ser_pointers = df.ix[:,3]
+  ser_combined = ser_values.append(ser_pointers,ignore_index = True)
+  ser_combined = ser_combined.unique()
+  set_nodes = set(ser_combined)
 
 
 def main(args):
