@@ -5,7 +5,7 @@ A project @ Complex Networks.
 In order to properly run the project's files, you're required
 to create your own virutal environment please open a command line
 in the root directory of this project and run the following commands:
-1. python3 -m venv venv
+1. python -m venv venv
 2. venv/Scripts/activate
 3. pip install -r requirements.txt
 After performing all of these actions, you will have the same development enviorment as we have, and everything should run smoothly.
