@@ -31,4 +31,6 @@ The project contains the following files and directories:
 
 04_graph_dbs: This DB contains the files used to create the graphs in Gephi, using NetworkX.
 
+05_most_relevant_db: This DB has the most relevant results from our clean DB, in order to have a comprehensible graph in Gephi.
+
 venv: Virtual environment folder, containing all required packages to run the project.

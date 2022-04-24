@@ -1,7 +1,12 @@
 """"
 This file contains functions which were
-used in order to create the data to be used
+intended to be used in order to create the data to be used
 with NetoworkX & Gephi.
+
+In the end, we performed the process with a
+Jupyter Notebook under the same name as this file.
+As such, this file was kept for documentation
+purposes.
 """
 
 import sys
