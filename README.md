@@ -33,4 +33,9 @@ The project contains the following files and directories:
 
 05_most_relevant_db: This DB has the most relevant results from our clean DB, in order to have a comprehensible graph in Gephi.
 
+06_most_relevant_graph: This directory contains the Jupyter Notebook used to generate the
+most relevant results, while containing all the data needed to create the graph.
+
+gephi_files: This directory contains the Gephi files created in the work process.
+
 venv: Virtual environment folder, containing all required packages to run the project.
