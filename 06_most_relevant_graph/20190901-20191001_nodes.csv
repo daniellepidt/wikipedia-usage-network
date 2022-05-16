@@ -1,0 +1,736 @@
+id,Label,total_relevance,pageviews
+0,Ukrainia,572,185
+1,Ukraine,571,320373
+2,War in Donbass,674,77510
+3,RussiaâUkraine relations,681,12557
+4,Ukrainian language,475,35751
+5,Russification of Ukraine,698,752
+6,2014 Russian aggression against Ukraine,756,43531
+7,Yulia Tymoshenko,392,27884
+8,UkraineâEuropean Union relations,353,11048
+11,Ukraine's accession to NATO,385,5856
+12,Ukrainisation,321,1749
+13,Viktor Yanukovych,331,32737
+14,Economy of Ukraine,268,15014
+15,Armed Forces of Ukraine,257,13508
+16,Ukrainian Soviet Socialist Republic,275,34659
+17,2013 Ukraine protests,278,26467
+18,Volhynian tragedy,218,8531
+19,Ukrainian history,290,20175
+20,Modern history of Ukraine,275,2315
+21,2014 Russian annexation of Crimea,583,66718
+22,RussiaâUkraine gas disputes,298,4375
+23,2014 pro-Russian conflict in Ukraine,390,9380
+24,PolishâUkrainian War,209,5712
+25,Ukrainian people,229,19993
+27,Holodomor,204,82042
+28,Ukrainian Canadians,192,4212
+29,Autocephaly of the Orthodox Church of Ukraine,213,1535
+30,Russians in Ukraine,349,3258
+31,Ukrainian Greek Catholic Church in the Soviet Union,208,132
+32,UkraineâEuropean Union Association Agreement,233,6617
+33,Petro Poroshenko,209,47664
+34,Russian language in Ukraine,307,2875
+35,Organisation of Ukrainian Nationalists,162,5339
+36,Ukrainian Insurgent Army,162,11839
+37,LwÃ³w,165,37872
+38,PolishâSoviet War,314,20633
+39,Anti-Ukrainian,199,3296
+40,Ukrainians in Russia,238,2996
+41,Bukovina,159,11024
+42,Volodymyr Zelensky,216,259755
+43,Ukrainian nobility of Galicia,146,418
+44,West Ukrainian National Republic,154,4764
+46,Malaysia Airlines Flight 17,295,63889
+47,Ukrainian diaspora,155,3821
+48,2014 Ukrainian revolution,204,33188
+49,Orthodox Church of Ukraine,155,5943
+50,Demographics of Ukraine,149,10574
+51,Religion in Ukraine,148,5311
+52,Svoboda (political party),144,6037
+53,President of Ukraine,128,73029
+54,Stepan Bandera,141,12598
+55,Viktor Yuschenko,157,17846
+58,Donetsk People's Republic,242,28495
+59,Ukrainian Greek Catholic Church,140,9538
+60,Kharkov,145,30369
+61,Criminal cases against Yulia Tymoshenko since 2010,133,1637
+62,Legislation on languages in Ukraine,139,409
+63,Kyiv,156,84096
+64,Ukrainian War of Independence,137,4040
+65,Ukrainian nationalists,115,2623
+66,2010 Ukrainian presidential election,111,3548
+67,History of the Jews in Ukraine,124,8587
+68,Party of Regions,119,4870
+69,History of Lviv,108,1850
+70,Donbass,184,14745
+71,UkrainianâSoviet War,119,2798
+73,Fall of the USSR,179,80323
+74,Dissolution of Soviet Union,179,253
+75,Freedom of the press in Ukraine,137,939
+76,Law of Ukraine,98,1240
+77,Nestor Makhno,125,13595
+78,Communist Party of Ukraine,108,3058
+79,Ukrainian Army,106,813
+80,Symon Petliura,113,3407
+81,Rodnovery,291,3149
+82,Security Service of Ukraine,114,4633
+83,Corruption in Ukraine,95,5059
+84,Ukrainian anthem,95,26
+85,Carpathian Ruthenia,107,8656
+86,Ruslana,96,3287
+88,Arseniy Yatsenyuk,115,4566
+89,Western Ukraine,106,3716
+90,Verkhovna Rada,94,19244
+91,Zakarpattia Oblast,105,6730
+92,Culture of Ukraine,96,3925
+93,Luhansk People's Republic,144,14757
+94,2014 Crimean status referendum,179,7719
+95,Ukrainian citizenship,94,782
+96,Ukrainian Premier League,92,14282
+97,Soviet famine of 1932?33,102,12602
+98,Soviet famine of 1932â33,102,13959
+99,Ukrainian Defense Industry (company),85,197
+100,"All-Ukrainian Union ""Fatherland""",90,9747
+101,All the Russias,269,386
+102,Protestants in Ukraine,91,88
+103,Naftogaz,100,1547
+104,Holodomor in modern politics,93,537
+105,Ukrainian People's Republic,106,9164
+106,Rinat Akhmetov,98,9926
+107,2008 Ukrainian parliamentary election,81,2779
+108,Free Territory,97,10777
+109,Vladimir Putin,426,305094
+110,Oleksandr Turchynov,91,6081
+111,Mikheil Saakashvili,91,11099
+112,Dnipropetrovsk,117,16218
+113,Name of Ukraine,83,7510
+114,"Declaration of Ukrainian Independence, 1941",71,600
+115,2018 MoscowâConstantinople schism,151,7731
+116,Minsk agreements,129,8643
+117,Ukrainian Orthodox Church (Moscow Patriarchate),100,3543
+118,Collectivization in the Ukrainian Soviet Socialist Republic,70,593
+119,Political status of Crimea,131,8475
+120,Black Sea Fleet,204,7020
+121,Republic of Crimea,174,18877
+122,Ukrainian Autocephalous Orthodox Church,79,1168
+123,Bandura,77,2877
+124,Orange Revolution,78,10959
+125,Odesa,118,50800
+126,Nadiya Savchenko,124,3489
+127,Treaty of Warsaw (1920),75,840
+128,Act Zluky,64,617
+129,Communist Party (Bolsheviks) of Ukraine,92,1595
+130,Taras Shevchenko,83,7253
+131,FC Dynamo Kyiv,67,26601
+132,Volodymyr Semynozhenko,62,215
+133,Crimean Peninsula,164,98967
+134,Natural gas in Ukraine,89,1274
+135,Ukrainian alphabet,75,10317
+136,Our UkraineâPeople's Self-Defense Bloc,63,980
+137,National University of Kyiv-Mohyla Academy,71,1795
+138,Ministry of Defense of Ukraine,66,56
+139,Political parties in Ukraine,63,1949
+140,Mykhailo Hrushevsky,69,1652
+141,Ukrainian Orthodox Church â Kyiv Patriarchate,68,650
+142,Vitali Klitschko,62,50762
+143,Donetsk,86,18395
+144,History of Poland (1939â1945),82,9931
+146,Ukrainophone,70,196
+147,Cossack Hetmanate,125,8764
+148,Mykolaiv,83,5944
+149,Nikita Khrushchev,78,105651
+150,Denial of the Holodomor,69,4300
+151,FC Shakhtar Donetsk,63,63772
+152,Shakhtar Donetsk,63,2383
+153,History of the Ukrainians in Baltimore,59,233
+154,Cossacks,233,70575
+155,Nuclear weapons and Ukraine,78,4591
+156,Ukrainian cooperative movement,57,340
+157,RussiaâUnited States relations,453,17338
+158,2017 Petya cyberattack,71,1473
+159,National Academy of Sciences of Ukraine,56,1204
+160,2008â09 Ukrainian financial crisis,56,946
+161,Dnipropetrovsk Oblast,65,4375
+162,Serhiy Tihipko,64,1042
+163,Holodomor genocide question,57,6020
+164,Ukrainian government,53,7153
+165,Polonization,88,3335
+166,Opposition Platform â For Life,69,6250
+167,Subdivisions of Ukraine,61,4673
+168,Ukrainophiles,60,521
+169,Judicial system of Ukraine,54,409
+170,Socialist Party of Ukraine,53,1071
+171,Treaty of Brest-Litovsk (UkraineâCentral Powers),66,924
+172,Igor Girkin,135,1494
+173,Ternopil,63,4584
+174,Human rights in Ukraine,55,1112
+175,Volodymyr Kubiyovych,53,319
+176,Reichskommissariat Ukraine,53,5763
+177,Andriy Shevchenko,50,48784
+178,Enlargement of NATO,113,11469
+179,Autonomous Republic of Crimea,91,9296
+180,Austrian Poland,73,12085
+181,Lviv pogroms,51,2569
+182,International sanctions during the Russo-Ukrainian War,284,12511
+183,2 May 2014 Odessa clashes,104,1673
+184,Kuchma,61,6992
+185,People's Movement of Ukraine,54,1330
+186,Football Federation of Ukraine,50,857
+187,Ukrainian Association of Football,50,1511
+188,Bloc Yulia Tymoshenko,50,1400
+189,Solidarity (Ukraine),48,7302
+190,Borys Kolesnykov,48,42
+191,2010 UkrainianâRussian Naval Base for Gas treaty,79,176
+192,Education in Ukraine,56,3286
+193,"Ukrainian Village, Chicago",50,2266
+194,Mariupol,100,5842
+195,Bohdan Khmelnytskyi,84,5762
+196,Filaret (Denysenko),64,1587
+197,Ukrselena,57,2040
+198,Leonid Kravchuk,54,4538
+199,Ukrainian Sich Riflemen,52,617
+200,History of Poland,157,17680
+202,National Guard of Ukraine,63,3281
+203,Romanization of Ukrainian,54,2770
+204,Ukrainian Democratic Alliance for Reform,46,1717
+205,Chernobyl disaster,61,937847
+206,Ukrainian architecture,56,937
+207,2015 Ukrainian presidential election,67,4525
+208,Polish population transfers (1944?1946),61,2277
+209,Polish population transfers (1944â1946),61,2277
+210,Mykola Azarov,52,3552
+213,Ukrainian State,50,3996
+214,Ivan Krypiakevych,45,96
+215,Transnistria,118,67847
+216,Commonwealth of Independent States,84,61752
+217,Sloboda Ukraine,67,2149
+218,2004 Ukrainian presidential election,65,2467
+219,Eastern Ukraine,60,2470
+220,Epiphanius I of Ukraine,48,1216
+221,Ukrainian folk music,44,992
+222,First Azarov Government,42,313
+223,Higher education in Ukraine,43,959
+224,RT (TV network),203,376879
+225,Kuban Cossacks,109,4186
+226,Novorossiya (confederation),76,7904
+227,Ruthenians,57,7984
+228,Kolomyia,41,2135
+229,RussiaâNATO relations,300,4600
+230,Little Russia,99,3019
+231,Ivan Mazepa,64,3160
+232,Oleh Tsarov,55,148
+233,Opposition Bloc,45,1830
+234,List of Ukrainian rulers,44,2115
+235,Executed Renaissance,42,1231
+239,Ems Ukaz,68,528
+241,George Shevelov,48,230
+242,Central Rada,44,280
+243,Boryspil International Airport,40,14205
+249,Army of the South-East,99,246
+250,Former Soviet Republics,93,26028
+251,Ukraine International Airlines,41,14144
+255,Barszcz,85,43154
+256,Southern Ukraine,48,1051
+260,Zhytomyr,46,4942
+267,Sevastopol,98,28178
+268,Kresy,57,6169
+269,Ruthenia,53,9352
+270,Romanians in Ukraine,53,721
+271,Greeks in Ukraine,44,1332
+273,Ukrainian Cossacks,84,8237
+274,Budjak,66,2553
+275,Chernobyl Exclusion Zone,41,48299
+276,Coal in Ukraine,40,617
+282,Soviet,152,424066
+283,Sergey Lavrov,99,11521
+284,1954 transfer of Crimea,75,3579
+285,Pierogi,45,45809
+286,Ivan Dorn,43,1964
+287,Mykola Skrypnyk,42,660
+293,Bessarabia,84,18109
+294,Eastern Front (World War II),66,53786
+295,Lisbon Protocol,50,424
+302,Russophobes,475,73
+303,Crimean bridge,86,108
+304,Zaporizhzhia,53,277
+305,Soviet famine of 1946â1947,52,2822
+306,John Mearsheimer,48,8808
+307,Martial law in Ukraine,42,1248
+316,Pereyaslav Council,65,1158
+317,Luhansk Oblast,54,3921
+318,Soviet partisans,45,7024
+332,Moldova,89,142125
+333,Soviet occupation of Bessarabia and Northern Bukovina,53,5740
+334,All-Ukrainian Congress of Soviets,41,229
+346,Foreign relations of Russia,470,9226
+361,Sport in Russia,202,4537
+362,Boris Nemtsov,106,6709
+363,Battle of Konotop,62,454
+364,Neo-Nazis,58,927
+365,Anti-Semitism,43,8697
+366,Antisemitism,43,99040
+380,RussiaâEuropean Union relations,362,5572
+381,Russian Jewish,169,2308
+398,Pavlo Skoropadskyi,40,1678
+408,Russian Orthodox Church,161,35336
+409,Arseny Pavlov,43,466
+410,Khmelnytsky Uprising,42,6162
+424,Nord Stream,113,10400
+425,The Ruin (Ukrainian history),50,808
+426,Natural gas in Russia,49,1434
+440,Eurasian Economic Union,144,25390
+441,Russian Civil War,112,54158
+442,Stalin,110,342848
+443,Political abuse of psychiatry in the Soviet Union,101,6360
+444,Crimean Tatars,72,14089
+445,OSCE,47,16049
+446,Yat,47,2878
+464,Russification,277,6913
+465,Belarus,120,176096
+467,Kazakhstan,94,251134
+468,Kirill of Moscow,76,5413
+469,JÃ³zef PiÅsudski,73,19480
+470,Nikolai Gogol,60,29463
+471,Mejlis of the Crimean Tatar People,47,969
+472,Eastern Partnership,41,4381
+473,Druzhba pipeline,41,2797
+474,Soviet invasion of Poland,40,43127
+490,Alexei Navalny,178,17390
+491,Byelorussian SSR,116,12707
+492,Belarusian Soviet Socialist Republic,116,160
+493,Donald Trump,55,5410531
+494,Novorossiya,54,5779
+495,Russian imperialism,50,4929
+496,Old East Slavic language,47,5272
+513,History of Russia,364,34857
+514,Russian (language),236,370
+515,Russian language,236,96982
+516,Russian Airborne Troops,66,8705
+534,Nikolay Kostomarov,56,359
+535,Fancy Bear,55,12190
+536,2014 Winter Paralympics,49,1139
+537,Battle of Berlin,45,43447
+563,Russian federation,390,524094
+564,RussiaâUnited Kingdom relations,230,4958
+565,Russian speakers,208,58
+566,Federal Security Service,85,33922
+567,Operation Bagration,61,21653
+568,Sea of Azov,55,11387
+569,Russo-Polish War (1654â1667),44,3095
+570,Deportation of the Crimean Tatars,43,4300
+591,RussiaâTurkey relations,114,3818
+592,Aleksandr Solzhenitsyn,105,40511
+593,Treaty of Brest-Litovsk,77,20943
+594,Polish Jews,60,25343
+595,Eastern Orthodox Culture,54,104028
+621,"History of Germans in Russia, Ukraine and the Soviet Union",182,5936
+622,Mikhail Gorbachev,100,161184
+623,Doukhobors,69,5045
+624,Roman Abramovich,68,64843
+625,Lithuania,64,167600
+626,Tupolev Tu-160,62,31066
+668,2016 United States election interference by Russia,451,770
+669,Human rights in Russia,229,5403
+670,Media freedom in Russia,170,4699
+671,Vladislav Surkov,80,6677
+672,Viktor Chernomyrdin,53,3117
+673,Pro-Russian,43,5942
+709,Russia under Vladimir Putin,394,7565
+710,Sino-Russian relations,232,7550
+711,Putinisms,62,5214
+712,Disinformation,57,11563
+713,Soviet Armed Forces,41,11766
+714,History of the Soviet Union (1927â53),40,1135
+762,GRU,97,5173
+763,Transnistria War,51,6969
+764,Danubian Sich,49,702
+828,2008 South Ossetia War,393,30500
+829,Military history of Imperial Russia,322,212
+830,Russian national football team,187,735
+831,Russian Soviet Republic,143,61599
+832,Boris Berezovsky (businessman),118,17647
+833,Russian Ground Forces,110,16200
+834,Ramzan Kadyrov,101,51987
+835,Sputnik (news agency),71,13301
+836,Ilya Repin,70,11452
+837,New Cold War,64,47
+838,Church Slavonic language,52,7223
+839,Don Cossacks,47,6203
+840,Vodka,43,87509
+892,Lenin,184,194178
+893,PolishâRussian War of 1792,80,2077
+894,MarxismâLeninism,77,47032
+895,Russian ruble,76,30756
+896,Leon Trotsky,69,124558
+897,Katyn massacre,68,47889
+898,"Treaty of Rapallo, 1922",63,633
+899,Joseph Conrad,62,39945
+900,Korenizatsiya,61,2738
+901,Wilno,55,49275
+902,Persecution of Christians in the Soviet Union,52,7371
+903,Victory Day (Eastern Front),41,8048
+980,History of the Russo-Turkish wars,125,7152
+981,Paul von Hindenburg,110,89762
+983,Georgia (country),93,279345
+984,Russia and weapons of mass destruction,79,11572
+985,Alexander Lukashenko,67,25942
+986,Aleksandr Lukashenko,67,139
+987,Deluge (history),65,7916
+988,Slavophilia,54,1673
+989,Koryo-saram,48,11722
+990,Aeroflot,45,38105
+1074,Boris Yeltsin,118,78058
+1076,Russian cuisine,90,15141
+1077,Censorship in the Russian Federation,90,231
+1078,Demographics of Russia,87,35922
+1079,Soviet coup attempt of 1991,72,23469
+1080,2018 FIFA World Cup,71,246157
+1081,Soviet Central Asia,63,2570
+1082,Slavic mythology,62,24822
+1083,Anna Politkovskaya,52,13034
+1084,"Minsk, Belarus",49,44388
+1085,Lesser Poland,42,4891
+1086,Rus' people,40,14644
+1183,World War I,153,649172
+1184,Great War,153,1906
+1185,RussiaâSerbia relations,149,4414
+1186,Tsardom of Moscow,134,25021
+1187,Nicholas I of Russia,133,42127
+1188,Visa policy of Russia,123,21866
+1189,Great Northern War,108,26141
+1190,Russian literature,108,10370
+1191,2011â2013 Russian protests,107,3478
+1192,Russian financial crisis (2014â2016),106,783
+1193,BelarusâRussia relations,77,2198
+1194,Anarchism in Russia,64,2488
+1195,Intermediate-Range Nuclear Forces Treaty,61,19408
+1196,United Aircraft Corporation,58,11190
+1197,Belarusian language,56,18965
+1198,Communist Party of the Russian Federation,54,30442
+1200,Kyrgyzstan,53,128896
+1201,FC Zenit Saint Petersburg,50,47840
+1202,Russian passport,49,8893
+1203,Russian Far East,48,28963
+1204,Russian oligarch,47,23640
+1205,Europe,45,292444
+1206,RIA Novosti,42,6035
+1323,Catherine the Great,198,273821
+1324,Russians,163,30438
+1325,Great Russians,163,247
+1326,Dmitry Medvedev,143,79830
+1327,Leningrad,132,145218
+1328,Russian Orthodox Church Outside Russia,107,4939
+1329,Partitions of Poland,103,17638
+1330,Moscow theater hostage crisis,101,34466
+1331,Peter I of Russia,92,79970
+1332,Adyghe people,68,57170
+1333,Bar Confederation,67,2014
+1334,Treaty on Conventional Armed Forces in Europe,60,2599
+1335,October Revolution,55,51842
+1336,Terrorism in Russia,55,6082
+1337,Turkmenistan,48,120931
+1338,Treaty of the Pruth,46,474
+1339,World War II casualties of the Soviet Union,43,16718
+1511,Russian military intervention in Syria,392,1068
+1512,Russian art,323,13515
+1513,Imperial Russia,246,107066
+1514,East Prussia,171,19592
+1515,Russian Navy,153,27402
+1516,White Ã©migrÃ©,126,7652
+1517,Russian Revolution,105,98757
+1518,South Ossetia,104,39010
+1519,Chechnya,104,98807
+1520,Old Believers,94,18035
+1521,Garry Kasparov,88,45140
+1522,Russian jokes,85,9056
+1523,Allied intervention in the Russian Civil War,84,16028
+1524,Internet censorship in Russia,80,4341
+1525,Rosneft,75,13283
+1526,January Uprising,74,7233
+1527,Russo-Turkish War (1768â1774),72,5986
+1528,Socialist movement,69,1274
+1529,Estonia,63,163349
+1530,Bandy,61,17208
+1531,Serfdom in Russia,59,11557
+1532,Sochi,59,29907
+1533,Bank of Russia,58,536
+1534,Russian Central Bank,58,81
+1535,Battle of Poltava (1708),55,10803
+1536,PFC CSKA Moscow,54,27144
+1537,Tadeusz KoÅciuszko,51,17468
+1538,Russian Academy of Science,45,7828
+1539,Ashgabat,43,21881
+1540,National delimitation in the Soviet Union,42,2631
+1541,Red Army,41,39973
+1542,Uzbekistan,41,145695
+1543,Carl XII,40,23829
+1544,Opposition to Vladimir Putin in Russia,40,2585
+1765,French invasion of Russia,206,39203
+1766,Moscow,161,139050
+1767,Politics of Russia,151,19581
+1768,Russian economy,142,39120
+1769,Russian Armed Forces,122,34409
+1770,International Space Station,114,229171
+1771,Caucasus Greeks,98,2700
+1772,2010 Polish Air Force Tu-154 crash,97,5444
+1773,Rock music in Russia,91,2554
+1774,Rus (name),90,1828
+1775,Pussy Riot,89,28238
+1776,Ivan Bunin,89,4256
+1777,Domestic policy of Vladimir Putin,82,528
+1778,Russian diaspora,79,4456
+1780,Flag of Russia,75,38885
+1781,Alexander II of Russia,74,62349
+1782,Vladivostok,74,61652
+1783,2018 Russian presidential election,70,19759
+1784,Nikolay Nekrasov,67,1752
+1785,Soviet Communists,66,36147
+1786,Communist Party of Soviet Union,66,172
+1787,Defense industry of Russia,64,3643
+1788,Russian national basketball team,62,310
+1789,Boris Pasternak,60,26776
+1790,White movement,58,28572
+1791,Konstantin Balmont,54,931
+1792,Second Northern War,51,4901
+1793,Russian ballet,51,5455
+1794,Dushanbe,50,15829
+1795,Latvia,48,143030
+1796,Coat of arms of Russia,47,8740
+1797,Mikhail Kutuzov,47,8788
+1798,Trans-Siberian Railway,47,35375
+1799,Russian famine of 1921?1922,46,150
+1800,Anti-Communist,46,945
+1801,Anti-communism,46,27455
+1802,Gennady Zyuganov,46,7423
+1803,Russian famine of 1921â1922,46,8987
+1804,Russian Federal Space Agency,45,42675
+1805,History of Central Asia,43,4654
+1806,Kalmykia,43,12056
+1807,Sakha,41,563
+1808,Armenia,41,199444
+1809,Sakha Republic,41,13230
+1810,Norilsk,41,20100
+1811,Russian Provisional Government,41,12829
+1812,Russian cultural property law,41,125
+1813,Brusilov Offensive,41,9912
+1814,Russian architecture,40,6042
+1815,All-Russian Congress of Soviets,40,2645
+1816,Imperialism,40,49995
+1817,Dacha,40,13504
+2269,Doping in Russia,329,14950
+2270,Crimean War,313,90709
+2271,Borussia MÃ¶nchengladbach,203,37559
+2272,Circassian genocide,168,7526
+2273,First Chechen War,167,25703
+2274,Iran-Russia relations,166,8040
+2275,Abkhazia,166,59441
+2276,Nicholas II of Russia,165,213608
+2277,IndiaâRussia relations,144,25300
+2278,India?Russia relations,144,25300
+2279,PolishâMuscovite War (1605â1618),137,4108
+2280,Imperial Russian Army,126,9324
+2281,First Russian circumnavigation,118,558
+2282,War in Abkhazia (1992â1993),117,4617
+2283,Mikhail Khodorkovsky,100,14721
+2284,Revolution of 1905,97,5941
+2285,Yekaterinburg,96,38566
+2286,Alexander Litvinenko,95,26639
+2287,LGBT rights in the Soviet Union,95,152
+2288,KoÅciuszko Uprising,93,4141
+2289,Kosciuszko Uprising,93,53
+2290,Battle of Grozny (1994?95),93,8017
+2291,Kaliningrad Oblast,92,29573
+2292,Kalmyk people,91,11052
+2293,German Empire,88,113020
+2294,Islam in Russia,87,19308
+2295,Nikolai Leskov,87,1875
+2296,United Russia,83,32131
+2297,Dvoryanstvo,80,9621
+2298,Sergei Witte,77,7272
+2299,Pyotr Ilyich Tchaikovsky,77,64755
+2300,Austria-Hungary,75,110576
+2301,1993 Russian constitutional crisis,74,12618
+2302,Tajikistan,73,93415
+2303,First Partition of Poland,73,4621
+2304,Elizabeth of Russia,73,28868
+2305,"Fort Ross, California",70,7854
+2306,2011 Russian legislative election,70,2972
+2308,Fyodor Dostoyevsky,68,15521
+2309,November Uprising,67,6623
+2310,Antisemitism in the Russian Empire,65,2780
+2311,Aleksey Konstantinovich Tolstoy,65,1693
+2312,Russian Railways,63,7749
+2313,Kazan,62,31082
+2314,Republic of Tatarstan,61,31827
+2315,Sergei Rachmaninoff,61,45492
+2316,Partition Sejm,59,463
+2317,Nihilist movement,58,1877
+2318,Putinism,55,5968
+2319,Grigory Potemkin,55,25155
+2320,Masuria,54,3906
+2321,Siberia,54,77038
+2322,Mikhail Vrubel,54,2562
+2324,Russia-1,49,2724
+2325,Sakhalin,49,27295
+2326,Vladimir Nabokov,49,41128
+2327,Bashkortostan,48,14512
+2328,ElblÄg,48,3829
+2329,Chechen Republic of Ichkeria,47,15423
+2330,Marc Chagall,46,48258
+2331,Primorsky Krai,45,12104
+2332,Alexander Prokhanov,45,751
+2333,Rossiya Bank,45,1113
+2334,2008 Russian presidential election,43,4297
+2335,Mikhail Kasyanov,42,2881
+2336,Novichok agent,42,11899
+2337,Georgi Plekhanov,42,4075
+2338,Cinema of Russia,42,4521
+2339,Sayfo,41,21
+2340,Latvian Soviet Socialist Republic,41,5602
+2341,Igor Stravinsky,40,36460
+2342,Azerbaijan,40,190689
+2343,Volga River,40,33347
+3289,Russo-Japanese War,291,85540
+3290,Seven Years' War,265,99078
+3291,Prussia,253,108741
+3292,Great Game,236,2186
+3293,Second Chechen War,228,34232
+3294,Kingdom of Prussia,226,70347
+3295,Franco-Prussian War,171,62288
+3296,1877â1878 Russo-Turkish War,156,16750
+3297,Russo-Turkish War (1877-1878),156,353
+3298,Imperial Russian Navy,154,5406
+3299,Greater Poland Uprising (1848),141,982
+3300,Beslan school hostage crisis,134,9551
+3301,Napoleonic Wars,133,89748
+3302,Russo-Persian Wars,123,3663
+3303,Russian Enlightenment,122,2605
+3304,Dmitry Merezhkovsky,118,1559
+3305,Russian conquest of Central Asia,117,2603
+3306,Prussian Reform Movement,111,1020
+3307,Livonian War,102,6239
+3308,Finnish War,101,7450
+3309,KÃ¶nigsberg,101,28174
+3310,Grand Duchy of Finland,101,11465
+3311,Russian nationality law,99,229
+3312,Kursk submarine disaster,95,46214
+3313,Russian entry into World War I,91,7666
+3314,Christianity in Russia,89,3390
+3315,Russian apartment bombings,89,14899
+3316,Treaty of Kuchuk-Kainarji,88,2414
+3317,Automotive industry in Russia,88,8822
+3318,Romanov dynasty,87,85404
+3319,Old Prussians,87,14334
+3320,Russian philosophy,87,584
+3321,Battle of Leipzig,86,18348
+3322,Alexander I of Russia,85,42203
+3323,War of the Sixth Coalition,83,13175
+3324,Russian America,83,16323
+3325,Alexander Zinoviev,83,1428
+3326,Sergei Pugachev,83,1377
+3327,Napoleon I of France,82,320039
+3328,2007 Russian legislative election,82,1839
+3329,Thirteen Years' War (1454â66),79,2350
+3330,War and Peace,79,76750
+3331,President of the Russian Federation,78,829
+3332,Russian President,78,43387
+3333,Duchy of Prussia,77,7917
+3334,Empire of JapanâRussian Empire relations,77,902
+3335,StanisÅaw August Poniatowski,73,11849
+3336,Russo-Persian War (1804â13),72,3132
+3337,Russian invasion of Manchuria,70,2410
+3338,Schlieffen Plan,70,18484
+3339,Ringing Cedars' Anastasianism,70,2625
+3341,German Confederation,69,29775
+3342,Russian-American Company,69,3513
+3343,Yaroslavl,69,9757
+3344,Qajar Iran,68,6302
+3345,Paul I of Russia,68,42870
+3346,Aleksandr Ostrovsky,67,160
+3347,Occupation of the Baltic states,66,9646
+3348,2014 Winter Olympics,66,21593
+3349,Frederick Augustus I of Saxony,66,3454
+3350,Ivan IV,66,70797
+3351,Yukos,66,4787
+3352,Rimsky-Korsakov,64,577
+3353,History of Siberia,62,4030
+3354,Teutonic Knights,60,15729
+3355,Art Nouveau,60,74616
+3356,Edward Snowden,60,537515
+3357,Russian gay propaganda law,60,7065
+3358,Time of Troubles,59,13494
+3360,House of Hohenzollern,58,30841
+3361,Alexander Herzen,58,3852
+3362,Congress of Berlin,58,7888
+3363,Alexander Kolchak,58,11106
+3364,"Constitution of May 3, 1791",57,4196
+3365,Allied and Associated Powers,57,53915
+3366,Congress Poland,57,14130
+3367,Alexander III of Russia,56,59250
+3368,Mikhail Saltykov-Shchedrin,56,1320
+3369,Mongols,56,40137
+3370,Battle of Narva (1700),55,3804
+3371,Treaty of Gulistan,54,2304
+3372,Boxer Rebellion,53,61662
+3373,Finland,53,223088
+3374,Wilhelm II,53,12444
+3375,Treaty of Georgievsk,53,940
+3376,Ludwig Wittgenstein,52,49702
+3377,Russo-Kazan wars,52,70
+3378,Lev Russov,52,252
+3379,Prime Minister of Russia,52,14489
+3380,Mikhail Bakunin,50,19288
+3381,Tsarist autocracy,49,6168
+3382,Winter Palace,49,26291
+3383,Russo-Turkish War (1806?1812),49,2517
+3384,Russo-Turkish War (1806â12),49,680
+3385,Manchukuo,49,32247
+3386,February Revolution,48,29092
+3387,Leninism,48,24035
+3388,Wilt Chamberlain,48,102726
+3389,Russian constitution,48,5844
+3390,Federal subjects of Russia,48,30120
+3391,Caucasian War,47,5728
+3392,Princess Victoria Melita of Saxe-Coburg and Gotha,47,8974
+3393,Anna of Russia,47,14191
+3394,Russian River (California),46,5182
+3395,Duchy of Warsaw,46,7605
+3396,Russian Revival,46,613
+3397,Grand Duchy of Posen,46,2340
+3398,Russian Dalian,46,1086
+3399,Maxim Litvinov,46,4854
+3400,Russia Day,46,2205
+3401,First Afghan War,46,374
+3402,Languages of Russia,45,13428
+3403,Apollon Maykov,45,430
+3404,Union State,45,13201
+3405,Peter III of Russia,44,42246
+3406,Arctic window,44,37
+3407,Health care in Russia,44,6159
+3408,Red Square,44,24988
+3409,Treaties of Tilsit,43,3807
+3410,Treaty of Tilsit,43,704
+3411,Federal Agency for Tourism (Russia),43,529
+3412,Education in Russia,43,10243
+3413,Great Northern War plague outbreak,43,1341
+3414,Anna Karenina,43,78440
+3415,Russian conquest of Siberia,43,7236
+3416,Lermontov,42,426
+3417,Grande ArmÃ©e,42,14692
+3418,Mikhail Lermontov,42,7339
+3419,Baltic Germans,42,9696
+3420,Second Partition of Poland,42,2896
+3421,Karl Marx,42,238392
+3422,Narodniks,41,3841
+3423,Russo-Persian War (1722â1723),41,1193
+3424,Aleksandr Kuprin,41,1188
+3425,Narodnik,41,707
+3426,Elections in Russia,40,10872
+3427,Neo-Byzantine architecture in the Russian Empire,40,869
+3428,Triple Entente,40,21945
+3429,Maria Theresa,40,42579
+3430,Russian tea culture,40,3975
+3431,Alexander Pushkin,40,39181
+3432,Nivkhs,40,366
+3433,Leo Tolstoy,40,110708
