@@ -2,6 +2,7 @@
 A project @ Complex Networks.
 
 =====ATTENTION=====
+
 In order to properly run the project's files, you're required
 to create your own virutal environment please open a command line
 in the root directory of this project and run the following commands:
@@ -14,16 +15,18 @@ enviorment as we have, and everything should run smoothly.
 For more information regarding Virtual Environments, please read:
 https://docs.python.org/3/library/venv.html
 
-===================
 
 ====INSTRUCTIONS====
+
 In order to start the scraping process, please run wikimedia_data_fetcher.py.
 If you'd like to change the scrapings base settings and get different results
 from what we used in our project, please change the constant inside of the
 init_data.py file.
+
 ====================
 
 The project contains the following files and directories:
+
 01_initial_dbs: DBs which we have gathered from Wikipedia with different
 versions of our code.
 
@@ -41,8 +44,11 @@ using NetworkX.
 in order to have a comprehensible graph in Gephi.
 
 06_graph_datasets: This directory contains a Jupyter Notebook used to generate
-the CSVs containing the datasets to be used in Gephi.
+the CSVs containing the datasets to be used in Gephi & two Jupyter Notebooks
+used to calculate different properties of the our graphs using NetworkX.
 
 gephi_files: This directory contains the Gephi files created in the work process.
+
+pics_for_pdf: A file with Pandas plots outputed for usage in our final report.
 
 venv: Virtual environment folder, containing all required packages to run the project.
