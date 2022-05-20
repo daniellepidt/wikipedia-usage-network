@@ -43,12 +43,14 @@ using NetworkX.
 05_most_relevant_db: This DB has the most relevant results from our clean DB,
 in order to have a comprehensible graph in Gephi.
 
-06_graph_datasets: This directory contains a Jupyter Notebook used to generate
-the CSVs containing the datasets to be used in Gephi & two Jupyter Notebooks
-used to calculate different properties of the our graphs using NetworkX.
+06_graph_datasets: This directory contains:
+
+1. A Jupyter Notebook used to generate the CSVs to be used in Gephi, from the **most** relevant values.
+2. A Jupyter Notebook used to create the CSVs that will be analyzed by NetworkX and contain *all* relevant values.
+3. Two Jupyter Notebooks used to calculate different properties of the our graphs using NetworkX.
 
 gephi_files: This directory contains the Gephi files created in the work process.
 
-pics_for_pdf: A file with Pandas plots outputed for usage in our final report.
+pics_for_pdf: A file with Matplotlib plots outputed for usage in our final report.
 
 venv: Virtual environment folder, containing all required packages to run the project.
