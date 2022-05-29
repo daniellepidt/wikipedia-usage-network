@@ -9,6 +9,6 @@ that got us a lot of irrelevant information.
 
 wikipedia1.csv & wikipedia2.csv are the newer versions.
 Both of them have a higher rate of relevancy to our project,
-and that is because we scraped pages by an order of magnitude.
+and that is because we scraped pages in an orderly manner:
 Here we only started scraping the pointers of a new page, after
 we have completely scraped the pointers of the former page.

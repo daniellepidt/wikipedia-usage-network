@@ -49,6 +49,8 @@ in order to have a comprehensible graph in Gephi.
 2. A Jupyter Notebook used to create the CSVs that will be analyzed by NetworkX and contain *all* relevant values.
 3. Two Jupyter Notebooks used to calculate different properties of the our graphs using NetworkX.
 
+07_statistical_analysis: This direcotry contains a Jupyter Notebook used to perform statistical analysis and it's results.
+
 gephi_files: This directory contains the Gephi files created in the work process.
 
 pics_for_pdf: A file with Matplotlib plots outputed for usage in our final report.
