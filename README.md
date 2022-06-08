@@ -51,6 +51,8 @@ in order to have a comprehensible graph in Gephi.
 
 07_statistical_analysis: This direcotry contains a Jupyter Notebook used to perform statistical analysis and it's results.
 
+08_unified_notebook: This directory contains the final submission for the project.
+
 gephi_files: This directory contains the Gephi files created in the work process.
 
 pics_for_pdf: A file with Matplotlib plots outputed for usage in our final report.
